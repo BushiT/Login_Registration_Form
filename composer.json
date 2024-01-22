@@ -1,0 +1,16 @@
+{
+    "name": "loginform/bushi",
+    "authors": [
+        {
+            "name": "bushi"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "admin\\" : "Helpers/admin/",
+            "MySql\\" : "Helpers/MySql"
+        }
+    }
+    
+}
